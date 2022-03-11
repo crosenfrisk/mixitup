@@ -24,8 +24,8 @@ The user wants to be able to make drinks based on the ingredients, so using this
 - When user chooses to sign up, they are prompted to create a username and password.
 - When user clicks on the sign-up button, the user credentials are saved and user is logged into the site.
 - When user revisits the site at a later time and choose to sign in, they are prompted to enter my username and password.
-- When user is signed in to the site, they can see navigation links for the homepage, the dashboard, and the option to log out.
-- When user clicks on the homepage option in the navigation, they are taken to the homepage and presented with existing drinks that include the name of the drink, photo of the drink, ingredient list and instruction of how to make it.
+- When user is signed in to the site, they can see navigation links for the homepage, the catalog, and the option to log out.
+- When user clicks on the homepage option in the navigation, they are taken to the homepage and presented with existing drinks that include the name of the drink, and photo of the drink.
 - When user clicks on an existing drink, they are presented with the drink name, photo of a drink, ingredient list, instruction of how to make it, and date created for that drink and have the option to leave a comment.
 - When user enters a comment and clicks on the submit button while signed in, the comment is saved and the post is updated to display the comment, the comment creator’s username, and the date created.
 - When user clicks on the dashboard option in the navigation, they are taken to the dashboard and presented with any drinks that have already created and the option to add a new drink.
@@ -42,9 +42,6 @@ The user wants to be able to make drinks based on the ingredients, so using this
 
 ## Screenshots
 ![Project Preview](assets/img/overview.png)
-
-## Demo
-[![Project demo](assets/img/demo.png)](assets/img/demo.mov)
 
 ## Instructions
 
@@ -77,14 +74,9 @@ Mix-It-Up allows users to:
 - sign-up, login, and logout.
 - see a list of available drinks.
 - create and save new drinks which they don't lose them even if they refresh the page.
-- delete or update a drink.
 
 #### Contribution Guidelines:
-Feel free to contribute to this repo by creating issues or sending an email to either: <br>
-[Claire Rosenfrisk](claire.rosenfrisk@gmail.com) <br>
-[Kevin Wilder](kevin_wilde564@yahoo.com) <br>
-[SepidehAyani](https://github.com/SepidehAyani) <br>
-
+Feel free to contribute to this repo by creating issues in the issue repository.
 ## Questions
 <details>
     <summary>Contacts</summary>
