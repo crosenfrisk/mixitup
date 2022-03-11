@@ -41,7 +41,7 @@ The user wants to be able to make drinks based on the ingredients, so using this
 [Deployed Project](https://mixitupapp.herokuapp.com/)
 
 ## Screenshots
-![Project Preview](assets/img/overview.png)
+![Project Preview](main/assets/images/overview.jpg)
 
 ## Instructions
 
